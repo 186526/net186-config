@@ -1,0 +1,11 @@
+kind: pipeline
+type: docker
+name: default
+
+steps:
+  - name: test
+    image: alpine:latest
+    commands:
+      - sed -i '1i\include "./config-example.conf";' bird.conf
+      - apk add bird
+      - bird -p -c ./bird.conf

@@ -1,5 +1,8 @@
 # 186526 Network
 
+[![Build Status](https://ci.186526.xyz/api/badges/186526/net186-config/status.svg)](https://ci.186526.xyz/186526/net186-config)
+![Bird Version Needed](https://img.shields.io/badge/bird-%3E%3D%202.0.11-blue)
+
 - Experimental global network
 - Maintained by 186526 (@real186526)
 
