@@ -2,6 +2,12 @@ kind: pipeline
 type: docker
 name: default
 
+trigger:
+  event:
+    include:
+      - push
+      - pull_request
+
 steps:
   - name: test
     image: alpine:latest
@@ -9,3 +15,34 @@ steps:
       - sed -i '1i\include "./config-example.conf";' bird.conf
       - apk add bird
       - bird -p -c ./bird.conf
+
+---
+kind: pipeline
+type: docker
+name: updateFilter
+
+trigger:
+  branch:
+    - main
+  event:
+    include:
+      - push
+      - cron
+
+steps:
+  - name: update filter
+    image: debian:latest
+    commands:
+      - apt-get update -y && apt-get install bgpq4 -y
+      - echo "define $(bgpq4 -tbl DOWNSTREAM_ASN AS-NET186 -S RIPE)" > util/irr-filter.conf
+      - echo "define $(bgpq4 -6bl DOWNSTREAM_PREFIXES AS-NET186)" >> util/irr-filter.conf
+  - name: push to repo
+    image: appleboy/drone-git-push
+    settings:
+      branch: production
+      remote: git@direct-git.186526.xyz:186526/net186-config.git
+      force: true
+      commit_message: "[CI] Update: update filter"
+      commit: true
+      ssh_key:
+        from_secret: ssh_private_key
