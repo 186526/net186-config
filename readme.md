@@ -30,6 +30,7 @@
 | (LOCAL_ASN, 110, 2)             | Route learn from direct peer                            |
 | (LOCAL_ASN, 110, 10)            | Route learn from upstream                               |
 | (LOCAL_ASN, 110, 20)            | Route learn from downstream                             |
+| (LOCAL_ASN, 110, 30)            | Route from 186526 Network                               |
 | (LOCAL_ASN, 120, `this PoP`)    | Route learn on `this PoP`                               |
 | (LOCAL_ASN, 121, `this region`) | Route learn in `this region`                            |
 | (LOCAL_ASN, 122, `this region`) | Route is passed through `this region` in 186526 Network |
