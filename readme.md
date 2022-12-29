@@ -97,9 +97,9 @@ To get in touch with me, please send mail to the following mailboxes.
 | Name    | Location              | Code | Type |
 | ------- | --------------------- | ---- | ---- |
 | Europe  | ----                  | ---- |
-| de-fra1 | Frankfurt am Main, DE | 101  | Core |
+| de-fra1 | Frankfurt am Main, DE | 101  | Edge |
 | uk-lhr1 | London, GB            | 102  | Edge |
-| nl-ams1 | Amsterdam, NL         | 103  | Edge |
+| nl-ams1 | Amsterdam, NL         | 103  | Core |
 | lu-lux1 | Roost, LU             | 104  | Core |
 | America | ----                  | ---- |
 | us-iad1 | Ashburn, VA, US       | 201  | Core |
