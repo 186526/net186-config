@@ -1,10 +1,27 @@
-# 186526 Network
+# 186526 Network (AS200536)
 
 [![Build Status](https://ci.186526.xyz/api/badges/186526/net186-config/status.svg)](https://ci.186526.xyz/186526/net186-config)
 ![Bird Version Needed](https://img.shields.io/badge/bird-%3E%3D%202.0.8-blue)
 
 - Experimental global network
-- Maintained by 186526 (@real186526)
+- Operated by 186526 (https://t.me/real186526)
+
+## Peering
+
+186526 Network have an open peer policy. You can peer with us through our listed IX in [PeeringDB](https://www.peeringdb.com/net/31778) or through IP tunneling under IPv4.
+
+For your convenience, here are more info about peering.
+
+- ASN: `200536`
+- AS-SET: `RIPE::AS-NET186`
+- Suggested IPv6 Prefix limit: `100`
+
+## Contact
+
+To get in touch with me, please send mail to the following mailboxes.
+
+- Abuse: `abuse@186526.xyz`
+- NOC: `noc@186526.xyz`
 
 ## BGP Communities
 
@@ -88,13 +105,17 @@
 | us-iad1 | Ashburn, VA, US       | 201  | Core |
 | us-sjc1 | Fremont, CA, US       | 221  | Core |
 | us-lax1 | Los Angeles, CA, US   | 222  | Edge |
+| us-sea1 | Seattle, CA, US       | 223  | Core |
 | br-gru1 | Sao Paulo, BR         | 241  | Edge |
 | APAC    | ----                  | ---- |
 | cn-hkg1 | Hong Kong SAR         | 401  | Core |
 | cn-tpe1 | Taipei, CN            | 402  | Edge |
 | jp-tyo1 | Tokyo, JP             | 403  | Edge |
+| kr-icn1 | Chuncheon, KR         | 404  | Edge |
 | sg-sin1 | Singapore             | 410  | Core |
 | cn-pek1 | Beijing, CN           | 431  | Core |
 | cn-pek2 | Beijing, CN           | 432  | Edge |
-| cn-can1 | Guangzhou, CN         | 433  | Edge |
+| cn-can1 | Guangzhou, CN         | 433  | Core |
+| cn-csx1 | Changsha, CN          | 434  | Edge |
+| cn-she1 | Shenyang, CN          | 435  | Edge |
 | au-syd1 | Sydney, AU            | 501  | Core |
