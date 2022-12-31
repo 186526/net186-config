@@ -2,9 +2,10 @@
 
 [![Build Status](https://ci.186526.xyz/api/badges/186526/net186-config/status.svg)](https://ci.186526.xyz/186526/net186-config)
 ![Bird Version Needed](https://img.shields.io/badge/bird-%3E%3D%202.0.8-blue)
+[![status](https://img.shields.io/badge/status-operational-sucess)](https://net.status.186526.eu.org/)
 
 - Experimental global network
-- Operated by 186526 (https://t.me/real186526)
+- Operated by 186526 [@real186526](https://t.me/real186526)
 
 ## Peering
 
@@ -55,7 +56,7 @@ To get in touch with me, please send mail to the following mailboxes.
 #### User-controllable Community
 
 | Community                       | Action                                                                           |
-| ------------------------------- | -------------------------------------------------------------------------------- |  
+| ------------------------------- | -------------------------------------------------------------------------------- |
 | (LOCAL_ASN, 0, 665)             | Prefix should only be announced, not written to our routing table                |
 | (LOCAL_ASN, 0, 666)             | Prefix should be blackholed at our PoP                                           |
 | (LOCAL_ASN, 1, 0)               | Prefix should not be exported to all upstream                                    |
@@ -68,7 +69,6 @@ To get in touch with me, please send mail to the following mailboxes.
 | (LOCAL_ASN, 115, 5)             | Route should be prepend 5x outside 186526 Network                                |
 | (LOCAL_ASN, 125, `this PoP`)    | Route should not be exported on `this PoP` to other PoPs in 186526 Network       |
 | (LOCAL_ASN, 126, `this region`) | Route should not be exported in `this region` to other regions in 186526 Network |
-
 
 ## Region & PoP
 
@@ -116,7 +116,8 @@ To get in touch with me, please send mail to the following mailboxes.
 | cn-pek1 | Beijing, CN           | 431  | Core |
 | cn-pek2 | Beijing, CN           | 432  | Edge |
 | cn-can1 | Guangzhou, CN         | 433  | Core |
-| cn-csx1 | Changsha, CN          | 434  | Edge |
-| cn-she1 | Shenyang, CN          | 435  | Edge |
-| cn-cgo1 | Zhengzhou, CN         | 436  | Edge |
+| cn-wuh1 | Wuhan, CN             | 434  | Core |
+| cn-csx1 | Changsha, CN          | 435  | Edge |
+| cn-she1 | Shenyang, CN          | 436  | Edge |
+| cn-cgo1 | Zhengzhou, CN         | 437  | Edge |
 | au-syd1 | Sydney, AU            | 501  | Core |
