@@ -2,6 +2,10 @@ kind: pipeline
 type: docker
 name: default
 
+platform:
+  os: linux
+  arch: arm64
+
 trigger:
   event:
     include:
@@ -21,6 +25,10 @@ kind: pipeline
 type: docker
 name: updateFilter
 
+platform:
+  os: linux
+  arch: arm64
+
 trigger:
   branch:
     - main
@@ -37,7 +45,7 @@ steps:
       - echo "define $(bgpq4 -tbl DOWNSTREAM_ASN AS-NET186 -S RIPE)" > util/irr-filter.conf
       - echo "define $(bgpq4 -6bl DOWNSTREAM_PREFIXES AS-NET186)" >> util/irr-filter.conf
   - name: push to repo
-    image: appleboy/drone-git-push
+    image: appleboy/drone-git-push:0.2.3-linux-arm64
     settings:
       branch: production
       remote: git@direct-git.186526.xyz:186526/net186-config.git

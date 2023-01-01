@@ -97,10 +97,11 @@ To get in touch with me, please send mail to the following mailboxes.
 | Name    | Location              | Code | Type |
 | ------- | --------------------- | ---- | ---- |
 | Europe  | ----                  | ---- |
-| de-fra1 | Frankfurt am Main, DE | 101  | Edge |
+| de-fra1 | Frankfurt am Main, DE | 101  | Core |
 | uk-lhr1 | London, GB            | 102  | Edge |
 | nl-ams1 | Amsterdam, NL         | 103  | Core |
 | lu-lux1 | Roost, LU             | 104  | Core |
+| de-hoq1 | Dusseldorf, DE        | 105  | Edge |
 | America | ----                  | ---- |
 | us-iad1 | Ashburn, VA, US       | 201  | Core |
 | us-sjc1 | Fremont, CA, US       | 221  | Core |
@@ -112,7 +113,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | cn-tpe1 | Taipei, CN            | 402  | Edge |
 | jp-tyo1 | Tokyo, JP             | 403  | Edge |
 | kr-icn1 | Chuncheon, KR         | 404  | Edge |
-| sg-sin1 | Singapore             | 410  | Core |
+| sg-sin1 | Singapore             | 411  | Core |
 | cn-pek1 | Beijing, CN           | 431  | Core |
 | cn-pek2 | Beijing, CN           | 432  | Edge |
 | cn-can1 | Guangzhou, CN         | 433  | Core |
