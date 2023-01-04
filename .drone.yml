@@ -32,10 +32,6 @@ platform:
 trigger:
   branch:
     - main
-  event:
-    include:
-      - push
-      - cron
 
 steps:
   - name: update filter
