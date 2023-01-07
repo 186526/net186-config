@@ -112,7 +112,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | cn-hkg1 | Hong Kong SAR         | 401  | Core |
 | cn-tpe1 | Taipei, CN            | 402  | Edge |
 | jp-tyo1 | Tokyo, JP             | 403  | Edge |
-| kr-icn1 | Chuncheon, KR         | 404  | Edge |
+| kr-yny1 | Chuncheon, KR         | 404  | Edge |
 | sg-sin1 | Singapore             | 411  | Core |
 | cn-pek1 | Beijing, CN           | 431  | Core |
 | cn-pek2 | Beijing, CN           | 432  | Edge |
