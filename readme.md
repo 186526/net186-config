@@ -28,12 +28,12 @@ To get in touch with me, please send mail to the following mailboxes.
 
 ### Well known BGP Communities
 
-| Community      | Description  | Action                                                              |
-| -------------- | ------------ | ------------------------------------------------------------------- |
-| (65535, 65281) | No Export    | Prefix should not be exported outside of 186526 Network (AS200536)  |
-| (65535, 65282) | No Advertise | Prefix should not be exported outside of this PoP                   |
-| (65535, 65283) | Local AS     | Prefix should not be exported outside of this region                |
-| (65535, 666)   | Blackhole    | Prefix should be blackholed at our PoP                              |
+| Community      | Description  | Action                                                             |
+| -------------- | ------------ | ------------------------------------------------------------------ |
+| (65535, 65281) | No Export    | Prefix should not be exported outside of 186526 Network (AS200536) |
+| (65535, 65282) | No Advertise | Prefix should not be exported outside of this PoP                  |
+| (65535, 65283) | Local AS     | Prefix should not be exported outside of this region               |
+| (65535, 666)   | Blackhole    | Prefix should be blackholed at our PoP                             |
 
 ### Specific BGP Communities
 
@@ -41,8 +41,8 @@ To get in touch with me, please send mail to the following mailboxes.
 
 #### System-controllable Community
 
-| Community                       | Description                                             |
-| ------------------------------- | ------------------------------------------------------- |
+| Community                    | Description                                             |
+| ---------------------------- | ------------------------------------------------------- |
 | (200536, 110, 0)             | Route learn from peer                                   |
 | (200536, 110, 1)             | Route learn from IX                                     |
 | (200536, 110, 2)             | Route learn from direct peer                            |
@@ -55,8 +55,8 @@ To get in touch with me, please send mail to the following mailboxes.
 
 #### User-controllable Community
 
-| Community                       | Action                                                                           |
-| ------------------------------- | -------------------------------------------------------------------------------- |
+| Community                    | Action                                                                           |
+| ---------------------------- | -------------------------------------------------------------------------------- |
 | (200536, 0, 665)             | Prefix should only be announced, not written to our routing table                |
 | (200536, 0, 666)             | Prefix should be blackholed at our PoP                                           |
 | (200536, 1, 0)               | Prefix should not be exported to all upstream                                    |
@@ -94,31 +94,32 @@ To get in touch with me, please send mail to the following mailboxes.
 
 ### PoP
 
-| Name    | Location              | Code | Type |
-| ------- | --------------------- | ---- | ---- |
-| Europe  | ----                  | ---- |
-| de-fra1 | Frankfurt am Main, DE | 101  | Core |
-| uk-lhr1 | London, GB            | 102  | Edge |
-| nl-ams1 | Amsterdam, NL         | 103  | Core |
-| lu-lux1 | Roost, LU             | 104  | Core |
-| de-hoq1 | Dusseldorf, DE        | 105  | Edge |
-| America | ----                  | ---- |
-| us-iad1 | Ashburn, VA, US       | 201  | Core |
-| us-sjc1 | Fremont, CA, US       | 221  | Core |
-| us-lax1 | Los Angeles, CA, US   | 222  | Edge |
-| us-sea1 | Seattle, CA, US       | 223  | Core |
-| br-sao1 | Sao Paulo, BR         | 241  | Edge |
-| APAC    | ----                  | ---- |
-| cn-hkg1 | Hong Kong SAR         | 401  | Core |
-| cn-tpe1 | Taipei, CN            | 402  | Edge |
-| jp-tyo1 | Tokyo, JP             | 403  | Edge |
-| kr-yny1 | Chuncheon, KR         | 404  | Edge |
-| sg-sin1 | Singapore             | 411  | Core |
-| cn-pek1 | Beijing, CN           | 431  | Core |
-| cn-pek2 | Beijing, CN           | 432  | Edge |
-| cn-can1 | Guangzhou, CN         | 433  | Core |
-| cn-wuh1 | Wuhan, CN             | 434  | Core |
-| cn-csx1 | Changsha, CN          | 435  | Edge |
-| cn-she1 | Shenyang, CN          | 436  | Edge |
-| cn-cgo1 | Zhengzhou, CN         | 437  | Edge |
-| au-syd1 | Sydney, AU            | 501  | Core |
+| Name    | Location                 | Code | Type |
+| ------- | ------------------------ | ---- | ---- |
+| Europe  | ----                     | ---- |
+| de-fra1 | Frankfurt am Main, DE    | 101  | Core |
+| uk-lhr1 | London, GB               | 102  | Edge |
+| nl-ams1 | Amsterdam, NL            | 103  | Core |
+| lu-lux1 | Roost, LU                | 104  | Core |
+| de-hoq1 | Dusseldorf, DE           | 105  | Edge |
+| America | ----                     | ---- |
+| us-iad1 | Ashburn, VA, US          | 201  | Core |
+| us-sjc1 | Fremont, CA, US          | 221  | Core |
+| us-lax1 | Los Angeles, CA, US      | 222  | Edge |
+| us-sea1 | Seattle, CA, US          | 223  | Core |
+| br-sao1 | Sao Paulo, BR            | 241  | Edge |
+| APAC    | ----                     | ---- |
+| cn-hkg1 | Hong Kong SAR            | 401  | Core |
+| cn-tpe1 | Taipei, CN               | 402  | Edge |
+| jp-tyo1 | Tokyo, JP                | 403  | Edge |
+| kr-yny1 | Chuncheon, KR            | 404  | Edge |
+| sg-sin1 | Singapore                | 411  | Core |
+| cn-pek1 | Beijing, CN              | 431  | Core |
+| cn-pek2 | Beijing, CN              | 431  | Edge |
+| cn-ctu1 | City near Chengdu, China | 432  | Edge |
+| cn-can1 | Guangzhou, CN            | 433  | Core |
+| cn-wuh1 | Wuhan, CN                | 434  | Core |
+| cn-csx1 | Changsha, CN             | 435  | Edge |
+| cn-she1 | Shenyang, CN             | 436  | Edge |
+| cn-cgo1 | Zhengzhou, CN            | 437  | Edge |
+| au-syd1 | Sydney, AU               | 501  | Core |
