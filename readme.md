@@ -3,6 +3,7 @@
 [![Build Status](https://ci.186526.xyz/api/badges/186526/net186-config/status.svg)](https://ci.186526.xyz/186526/net186-config)
 ![Bird Version Needed](https://img.shields.io/badge/bird-%3E%3D%202.0.8-blue)
 [![status](https://img.shields.io/badge/status-operational-sucess)](https://net.status.186526.eu.org/)
+[![looking-glass](https://img.shields.io/badge/looking%20glass-available%20at%20bgp.tools-sucess)](https://bgp.tools/lg/200536)
 
 - Experimental global network
 - Operated by 186526 [@real186526](https://t.me/real186526)
