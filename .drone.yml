@@ -14,10 +14,12 @@ trigger:
 
 steps:
   - name: test
+    privileged: true
     image: alpine:latest
     commands:
       - sed -i '1i\include "./config-example.conf";' bird.conf
-      - apk add bird
+      - apk add bird iproute2
+      - ip link add tunnel-dum0 type dummy
       - bird -p -c ./bird.conf
 
 ---
