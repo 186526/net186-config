@@ -123,4 +123,5 @@ To get in touch with me, please send mail to the following mailboxes.
 | cn-csx1 | Changsha, CN             | 435  | Edge |
 | cn-she1 | Shenyang, CN             | 436  | Edge |
 | cn-cgo1 | Zhengzhou, CN            | 437  | Edge |
+| cn-tao1 | Qingdao, CN              | 438  | Edge |
 | au-syd1 | Sydney, AU               | 501  | Core |
