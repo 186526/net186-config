@@ -122,7 +122,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | cn-tpe1 | Taipei, CN               | 402  | Edge | ✓           |
 | jp-tyo1 | Tokyo, JP                | 403  | Edge | ✓           |
 | kr-yny1 | Chuncheon, KR            | 404  | Edge | ✓           |
-| jp-osa1 | Osaka, JP                | 405  | Edge |
+| jp-osa1 | Osaka, JP                | 405  | Edge | ✓           |
 | sg-sin1 | Singapore                | 411  | Core | ✓           |
 | cn-pek1 | Beijing, CN              | 431  | Core | ✓           |
 | cn-pek2 | Beijing, CN              | 431  | Edge | ✓           |
@@ -134,5 +134,5 @@ To get in touch with me, please send mail to the following mailboxes.
 | cn-csx2 | Changsha, CN             | 435  | Edge |
 | cn-she1 | Shenyang, CN             | 436  | Edge |
 | cn-cgo1 | Zhengzhou, CN            | 437  | Edge | ✓           |
-| cn-tao1 | Qingdao, CN              | 438  | Edge | ✓           |
+| cn-tao1 | Qingdao, CN              | 438  | Edge |
 | au-syd1 | Sydney, AU               | 501  | Core | ✓           |
