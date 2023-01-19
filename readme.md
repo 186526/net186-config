@@ -5,7 +5,7 @@
 [![Build Status](https://ci.186526.xyz/api/badges/186526/net186-config/status.svg)](https://ci.186526.xyz/186526/net186-config)
 ![Bird Version Needed](https://img.shields.io/badge/bird-%3E%3D%202.0.8-blue)
 [![status](https://img.shields.io/badge/status-operational-sucess)](https://net.status.186526.eu.org/)
-[![looking-glass](https://img.shields.io/badge/looking%20glass-available%20at%20lg.186526.net-sucess)](https://lg.186526.net/)
+[![looking-glass](https://img.shields.io/badge/looking%20glass-available%20at%20lg.186526.net-blue)](https://lg.186526.net/)
 
 - AS200536
 - Experimental global network
@@ -20,6 +20,10 @@ For your convenience, here are more info about peering.
 - ASN: `200536`
 - AS-SET: `RIPE::AS-NET186`
 - Suggested IPv6 Prefix limit: `100`
+
+### Transit
+
+186526 network can provide free transit in some places. If you want to know more, please feel free to ask us.
 
 ## Contact
 
@@ -98,33 +102,37 @@ To get in touch with me, please send mail to the following mailboxes.
 
 ### PoP
 
-| Name    | Location                 | Code | Type |
-| ------- | ------------------------ | ---- | ---- |
-| Europe  | ----                     | ---- |
-| de-fra1 | Frankfurt am Main, DE    | 101  | Core |
+| Name    | Location                 | Code | Type | Operational |
+| ------- | ------------------------ | ---- | ---- | ----------- |
+| Europe  |
+| de-fra1 | Frankfurt am Main, DE    | 101  | Core | ✓           |
+| de-fra2 | Frankfurt am Main, DE    | 101  | Core |
 | uk-lhr1 | London, GB               | 102  | Edge |
-| nl-ams1 | Amsterdam, NL            | 103  | Core |
-| lu-lux1 | Roost, LU                | 104  | Core |
-| de-hoq1 | Dusseldorf, DE           | 105  | Edge |
-| America | ----                     | ---- |
-| us-iad1 | Ashburn, VA, US          | 201  | Core |
-| us-sjc1 | Fremont, CA, US          | 221  | Core |
-| us-lax1 | Los Angeles, CA, US      | 222  | Edge |
-| us-sea1 | Seattle, CA, US          | 223  | Core |
-| br-sao1 | Sao Paulo, BR            | 241  | Edge |
-| APAC    | ----                     | ---- |
-| cn-hkg1 | Hong Kong SAR            | 401  | Core |
-| cn-tpe1 | Taipei, CN               | 402  | Edge |
-| jp-tyo1 | Tokyo, JP                | 403  | Edge |
-| kr-yny1 | Chuncheon, KR            | 404  | Edge |
-| sg-sin1 | Singapore                | 411  | Core |
-| cn-pek1 | Beijing, CN              | 431  | Core |
-| cn-pek2 | Beijing, CN              | 431  | Edge |
-| cn-ctu1 | City near Chengdu, China | 432  | Edge |
-| cn-can1 | Guangzhou, CN            | 433  | Core |
-| cn-wuh1 | Wuhan, CN                | 434  | Core |
-| cn-csx1 | Changsha, CN             | 435  | Edge |
+| nl-ams1 | Amsterdam, NL            | 103  | Core | ✓           |
+| lu-lux1 | Roost, LU                | 104  | Core | ✓           |
+| de-hoq1 | Dusseldorf, DE           | 105  | Edge | ✓           |
+| America |
+| us-iad1 | Ashburn, VA, US          | 201  | Core | ✓           |
+| us-sjc1 | Fremont, CA, US          | 221  | Core | ✓           |
+| us-lax1 | Los Angeles, CA, US      | 222  | Edge | ✓           |
+| us-sea1 | Seattle, CA, US          | 223  | Core | ✓           |
+| br-sao1 | Sao Paulo, BR            | 241  | Edge | ✓           |
+| APAC    |
+| cn-hkg1 | Hong Kong SAR            | 401  | Core | ✓           |
+| cn-tpe1 | Taipei, CN               | 402  | Edge | ✓           |
+| jp-tyo1 | Tokyo, JP                | 403  | Edge | ✓           |
+| kr-yny1 | Chuncheon, KR            | 404  | Edge | ✓           |
+| jp-osa1 | Osaka, JP                | 405  | Edge |
+| sg-sin1 | Singapore                | 411  | Core | ✓           |
+| cn-pek1 | Beijing, CN              | 431  | Core | ✓           |
+| cn-pek2 | Beijing, CN              | 431  | Edge | ✓           |
+| cn-ctu1 | City near Chengdu, China | 432  | Edge | ✓           |
+| cn-can1 | Guangzhou, CN            | 433  | Core | ✓           |
+| cn-wuh1 | Wuhan, CN                | 434  | Core | ✓           |
+| cn-wuh2 | Wuhan, CN                | 434  | Edge |
+| cn-csx1 | Changsha, CN             | 435  | Edge | ✓           |
+| cn-csx2 | Changsha, CN             | 435  | Edge |
 | cn-she1 | Shenyang, CN             | 436  | Edge |
-| cn-cgo1 | Zhengzhou, CN            | 437  | Edge |
-| cn-tao1 | Qingdao, CN              | 438  | Edge |
-| au-syd1 | Sydney, AU               | 501  | Core |
+| cn-cgo1 | Zhengzhou, CN            | 437  | Edge | ✓           |
+| cn-tao1 | Qingdao, CN              | 438  | Edge | ✓           |
+| au-syd1 | Sydney, AU               | 501  | Core | ✓           |
