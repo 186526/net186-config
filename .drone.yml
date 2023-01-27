@@ -40,7 +40,7 @@ steps:
     image: debian:latest
     commands:
       - apt-get update -y && apt-get install bgpq4 -y
-      - echo "define $(bgpq4 -tbl DOWNSTREAM_ASN AS-NET186 -S RIPE)" > util/irr-filter.conf
+      - echo "define $(bgpq4 -tbl DOWNSTREAM_ASN AS-NET186)" > util/irr-filter.conf
       - echo "define $(bgpq4 -6bl DOWNSTREAM_PREFIXES AS-NET186)" >> util/irr-filter.conf
   - name: push to repo
     image: appleboy/drone-git-push:0.2.3-linux-arm64

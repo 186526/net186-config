@@ -119,6 +119,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | br-sao1 | Sao Paulo, BR            | 241  | Edge | ✓           |
 | APAC    |
 | cn-hkg1 | Hong Kong SAR            | 401  | Core | ✓           |
+| cn-hkg2 | Hong Kong SAR            | 401  | Edge | ✓           |
 | cn-tpe1 | Taipei, CN               | 402  | Edge | ✓           |
 | jp-tyo1 | Tokyo, JP                | 403  | Edge | ✓           |
 | kr-yny1 | Chuncheon, KR            | 404  | Edge | ✓           |
@@ -130,7 +131,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | cn-can1 | Guangzhou, CN            | 433  | Core | ✓           |
 | cn-wuh1 | Wuhan, CN                | 434  | Core | ✓           |
 | cn-wuh2 | Wuhan, CN                | 434  | Edge | ✓           |
-| cn-csx1 | Changsha, CN             | 435  | Edge | ✓           |
+| cn-csx1 | Changsha, CN             | 435  | Edge |
 | cn-csx2 | Changsha, CN             | 435  | Edge |
 | cn-she1 | Shenyang, CN             | 436  | Edge |
 | cn-cgo1 | Zhengzhou, CN            | 437  | Edge | ✓           |
