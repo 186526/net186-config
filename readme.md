@@ -4,12 +4,12 @@
 
 [![Build Status](https://ci.186526.xyz/api/badges/186526/net186-config/status.svg)](https://ci.186526.xyz/186526/net186-config)
 ![Bird Version Needed](https://img.shields.io/badge/bird-%3E%3D%202.0.8-blue)
-[![status](https://img.shields.io/badge/status-operational-sucess)](https://net.status.186526.eu.org/)
+[![status](https://img.shields.io/badge/status-operational-sucess)](https://uptime.186526.net)
 [![looking-glass](https://img.shields.io/badge/looking%20glass-available%20at%20lg.186526.net-blue)](https://lg.186526.net/)
 
-- AS200536
+- AS200536, aka Sunoaki Network
 - Experimental global network
-- Operated by 186526 [@real186526](https://t.me/real186526)
+- Operated by 186526 (Bo Xu) [@real186526](https://t.me/real186526), sponsored by Sunoaki Network LLC.
 
 ## Peering
 
