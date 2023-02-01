@@ -1,9 +1,9 @@
 # 186526 Network
 
-![logo](https://git.186526.xyz/186526/net186-config/raw/branch/main/logo/dark.svg)
+![logo](logo/dark.svg)
 
 [![Build Status](https://ci.186526.xyz/api/badges/186526/net186-config/status.svg)](https://ci.186526.xyz/186526/net186-config)
-![Bird Version Needed](https://img.shields.io/badge/bird-%3E%3D%202.0.8-blue)
+[![Bird Version](https://img.shields.io/badge/bird-%3E%3D%202.0.10-blue)](https://git.186526.xyz/186526/net186-config)
 [![status](https://img.shields.io/badge/status-operational-sucess)](https://uptime.186526.net)
 [![looking-glass](https://img.shields.io/badge/looking%20glass-available%20at%20lg.186526.net-blue)](https://lg.186526.net/)
 
@@ -126,7 +126,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | jp-osa1 | Osaka, JP                | 405  | Edge | ✓           |
 | sg-sin1 | Singapore                | 411  | Core | ✓           |
 | cn-pek1 | Beijing, CN              | 431  | Core | ✓           |
-| cn-pek2 | Beijing, CN              | 431  | Edge | ✓           |
+| cn-pek2 | Beijing, CN              | 431  | Edge |
 | cn-ctu1 | City near Chengdu, China | 432  | Edge | ✓           |
 | cn-can1 | Guangzhou, CN            | 433  | Core | ✓           |
 | cn-wuh1 | Wuhan, CN                | 434  | Core | ✓           |

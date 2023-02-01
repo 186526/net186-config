@@ -1,0 +1,10 @@
+name: "186526 Network"
+description: An experimental global network, Operated by 186526 (Bo Xu) @real186526.
+title: null
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - readme.md
