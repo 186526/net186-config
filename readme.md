@@ -104,7 +104,7 @@ To get in touch with me, please send mail to the following mailboxes.
 
 | Name    | Location                 | Code | Type | Operational |
 | ------- | ------------------------ | ---- | ---- | ----------- |
-| Europe  |
+| EMEA  |
 | de-fra1 | Frankfurt am Main, DE    | 101  | Core | ✓           |
 | de-fra2 | Frankfurt am Main, DE    | 101  | Core | ✓           |
 | uk-lhr1 | London, GB               | 102  | Edge |
