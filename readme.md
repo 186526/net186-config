@@ -111,6 +111,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | nl-ams1 | Amsterdam, NL            | 103  | Core | ✓           |
 | lu-lux1 | Roost, LU                | 104  | Core | ✓           |
 | de-hoq1 | Dusseldorf, DE           | 105  | Edge | ✓           |
+| ae-dxb1 | Dubai, AE                | 601  | Edge |
 | America |
 | us-iad1 | Ashburn, VA, US          | 201  | Core | ✓           |
 | us-sjc1 | Fremont, CA, US          | 221  | Core | ✓           |
