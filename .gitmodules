@@ -1,0 +1,2 @@
+[submodule "ansible"]
+	url = https://git.186526.xyz/186526/net186-ansible

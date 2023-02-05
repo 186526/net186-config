@@ -39,10 +39,11 @@ steps:
   - name: update filter
     image: debian:latest
     commands:
-      - apt-get update -y && apt-get install bgpq4 -y
+      - apt-get update -y && apt-get install bgpq4 git -y
       - echo "define $(bgpq4 -tbl DOWNSTREAM_ASN AS-NET186)" > util/irr-filter.conf
       - echo "define $(bgpq4 -6bl DOWNSTREAM_PREFIXES AS-NET186)" >> util/irr-filter.conf
       - echo "net.186526.xyz" >> CNAME
+      - git rm -f ansible
   - name: push to repo
     image: appleboy/drone-git-push:0.2.3-linux-arm64
     settings:
