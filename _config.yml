@@ -1,10 +1,17 @@
 name: "186526 Network"
 description: An experimental global network, Operated by 186526 (Bo Xu) @real186526.
+remote_theme: pages-themes/primer@v0.6.0
 title: null
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
+  - jekyll-readme-index
 relative_links:
   enabled: true
   collections: true
 include:
-  - readme.md
+  - ./readme.md
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: false

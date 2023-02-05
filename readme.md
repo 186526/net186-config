@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # 186526 Network
 
 ![logo](logo/dark.svg)
