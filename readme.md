@@ -111,7 +111,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | EMEA           |
 | de-fra1        | Frankfurt am Main, DE | 101  | Core | ✓           |
 | de-fra2        | Frankfurt am Main, DE | 101  | Core | ✓           |
-| uk-lhr1        | London, GB            | 102  | Edge |
+| uk-lhr1        | London, GB            | 102  | Edge | ✓           |
 | nl-ams1        | Amsterdam, NL         | 103  | Core | ✓           |
 | lu-lux1        | Roost, LU             | 104  | Core | ✓           |
 | de-hoq1        | Dusseldorf, DE        | 105  | Edge | ✓           |
