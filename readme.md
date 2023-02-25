@@ -100,7 +100,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | East Asia (without China mainland) | 400  |
 | Southeast Asia                     | 410  |
 | South Asia                         | 420  |
-| China mainland                     | 430  |
+<!-- | China mainland                     | 430  | -->
 | Oceania                            | 500  |
 | Middle East                        | 600  |
 
@@ -133,7 +133,7 @@ To get in touch with me, please send mail to the following mailboxes.
 | sg-sin1        | Singapore             | 411  | Core | ✓           |
 | sg-sin2        | Singapore             | 412  | Edge |
 | in-bom1        | Mumbai, IN            | 421  | Edge |
-| China Mainland |
+<!-- | China Mainland |
 | cn-pek1        | Beijing, CN           | 431  | Core | ✓           |
 | cn-pek2        | Beijing, CN           | 431  | Edge |
 | cn-ctu1        | near Chengdu, China   | 432  | Edge | ✓           |
@@ -144,4 +144,4 @@ To get in touch with me, please send mail to the following mailboxes.
 | cn-csx2        | Changsha, CN          | 435  | Edge |
 | cn-cgo1        | Zhengzhou, CN         | 437  | Edge | ✓           |
 | cn-tao1        | Qingdao, CN           | 438  | Edge | ✓           |
-| au-syd1        | Sydney, AU            | 501  | Core | ✓           |
+| au-syd1        | Sydney, AU            | 501  | Core | ✓           | -->
