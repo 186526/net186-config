@@ -96,15 +96,17 @@
 | sg-sin1        | Singapore             | 411  | Core | ✓           |
 | sg-sin2        | Singapore             | 412  | Edge |
 | in-bom1        | Mumbai, IN            | 421  | Edge |
-| China Mainland |
+| au-syd1        | Sydney, AU            | 501  | Core | ✓           |
+
+<!-- | China Mainland |
 | cn-pek1        | Beijing, CN           | 431  | Core | ✓           |
 | cn-pek2        | Beijing, CN           | 431  | Edge |
-| cn-ctu1        | near Chengdu, China   | 432  | Edge | ✓           |
+| cn-sjw1        | Shijiazhuang, CN      | 431  | Edge | ✓           |
+| cn-ctu1        | near Chengdu, CN      | 432  | Edge | ✓           |
 | cn-can1        | Guangzhou, CN         | 433  | Core |             |
 | cn-wuh1        | Wuhan, CN             | 434  | Core | ✓           |
 | cn-wuh2        | Wuhan, CN             | 434  | Edge | ✓           |
 | cn-csx1        | Changsha, CN          | 435  | Edge |
 | cn-csx2        | Changsha, CN          | 435  | Edge |
 | cn-cgo1        | Zhengzhou, CN         | 437  | Edge | ✓           |
-| cn-tao1        | Qingdao, CN           | 438  | Edge | ✓           |
-| au-syd1        | Sydney, AU            | 501  | Core | ✓           |
+| cn-tao1        | Qingdao, CN           | 438  | Edge | ✓           | -->
