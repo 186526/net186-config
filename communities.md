@@ -68,35 +68,35 @@
 
 ### PoP
 
-| Name           | Location              | Code | Type | Operational |
-| -------------- | --------------------- | ---- | ---- | ----------- |
-| EMEA           |
-| de-fra1        | Frankfurt am Main, DE | 101  | Core | ✓           |
-| de-fra2        | Frankfurt am Main, DE | 101  | Core | ✓           |
-| uk-lhr1        | London, GB            | 102  | Edge | ✓           |
-| nl-ams1        | Amsterdam, NL         | 103  | Core | ✓           |
-| lu-lux1        | Roost, LU             | 104  | Core | ✓           |
-| de-hoq1        | Dusseldorf, DE        | 105  | Edge | ✓           |
-| ae-dxb1        | Dubai, AE             | 601  | Edge | ✓           |
-| America        |
-| us-iad1        | Ashburn, VA, US       | 201  | Core | ✓           |
-| us-iad2        | Ashburn, VA, US       | 201  | Edge | ✓           |
-| us-sjc1        | Fremont, CA, US       | 221  | Core | ✓           |
-| us-lax1        | Los Angeles, CA, US   | 222  | Edge | ✓           |
-| us-sea1        | Seattle, CA, US       | 223  | Core | ✓           |
-| br-sao1        | Sao Paulo, BR         | 241  | Edge | ✓           |
-| APAC           |
-| cn-hkg1        | Hong Kong SAR         | 401  | Core | ✓           |
-| cn-hkg2        | Hong Kong SAR         | 401  | Edge | ✓           |
-| cn-tpe1        | Taipei, CN            | 402  | Edge | ✓           |
-| jp-tyo1        | Tokyo, JP             | 403  | Edge | ✓           |
-| kr-yny1        | Chuncheon, KR         | 404  | Edge | ✓           |
-| jp-osa1        | Osaka, JP             | 405  | Edge | ✓           |
-| kr-icn1        | Seoul, KR             | 406  | Edge |
-| sg-sin1        | Singapore             | 411  | Core | ✓           |
-| sg-sin2        | Singapore             | 412  | Edge |
-| in-bom1        | Mumbai, IN            | 421  | Edge |
-| au-syd1        | Sydney, AU            | 501  | Core | ✓           |
+| Name    | Location              | Code | Type | Operational |
+| ------- | --------------------- | ---- | ---- | ----------- |
+| EMEA    |
+| de-fra1 | Frankfurt am Main, DE | 101  | Core | ✓           |
+| de-fra2 | Frankfurt am Main, DE | 101  | Core | ✓           |
+| uk-lhr1 | London, GB            | 102  | Edge | ✓           |
+| nl-ams1 | Amsterdam, NL         | 103  | Core | ✓           |
+| lu-lux1 | Roost, LU             | 104  | Core | ✓           |
+| de-hoq1 | Dusseldorf, DE        | 105  | Edge | ✓           |
+| ae-dxb1 | Dubai, AE             | 601  | Edge | ✓           |
+| America |
+| us-iad1 | Ashburn, VA, US       | 201  | Core | ✓           |
+| us-iad2 | Ashburn, VA, US       | 201  | Edge | ✓           |
+| us-sjc1 | Fremont, CA, US       | 221  | Core | ✓           |
+| us-lax1 | Los Angeles, CA, US   | 222  | Edge | ✓           |
+| us-sea1 | Seattle, CA, US       | 223  | Core | ✓           |
+| br-sao1 | Sao Paulo, BR         | 241  | Edge | ✓           |
+| APAC    |
+| cn-hkg1 | Hong Kong SAR         | 401  | Core | ✓           |
+| cn-hkg2 | Hong Kong SAR         | 401  | Edge | ✓           |
+| cn-tpe1 | Taipei, CN            | 402  | Edge | ✓           |
+| jp-tyo1 | Tokyo, JP             | 403  | Edge | ✓           |
+| kr-yny1 | Chuncheon, KR         | 404  | Edge | ✓           |
+| jp-osa1 | Osaka, JP             | 405  | Edge | ✓           |
+| kr-icn1 | Seoul, KR             | 406  | Edge | ✓           |
+| sg-sin1 | Singapore             | 411  | Core | ✓           |
+| sg-sin2 | Singapore             | 411  | Edge |
+| in-bom1 | Mumbai, IN            | 421  | Edge | ✓           |
+| au-syd1 | Sydney, AU            | 501  | Core | ✓           |
 
 <!-- | China Mainland |
 | cn-pek1        | Beijing, CN           | 431  | Core | ✓           |

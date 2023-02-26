@@ -13,7 +13,7 @@ permalink: /
 
 - AS200536, aka Sunoaki Network
 - Experimental global network
-- Operated by 186526 (Bo Xu) [@real186526](https://t.me/real186526), sponsored by Sunoaki Network LLC.
+- Operated by 186526 (Bo Xu) [@real186526](https://186526.xyz), sponsored by Sunoaki Network LLC.
 
 ## Peering
 
