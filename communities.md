@@ -80,6 +80,7 @@
 | ae-dxb1        | Dubai, AE             | 601  | Edge | ✓           |
 | America        |
 | us-iad1        | Ashburn, VA, US       | 201  | Core | ✓           |
+| us-iad2        | Ashburn, VA, US       | 201  | Edge | ✓           |
 | us-sjc1        | Fremont, CA, US       | 221  | Core | ✓           |
 | us-lax1        | Los Angeles, CA, US   | 222  | Edge | ✓           |
 | us-sea1        | Seattle, CA, US       | 223  | Core | ✓           |
@@ -99,7 +100,7 @@
 | cn-pek1        | Beijing, CN           | 431  | Core | ✓           |
 | cn-pek2        | Beijing, CN           | 431  | Edge |
 | cn-ctu1        | near Chengdu, China   | 432  | Edge | ✓           |
-| cn-can1        | Guangzhou, CN         | 433  | Core | ✓           |
+| cn-can1        | Guangzhou, CN         | 433  | Core |             |
 | cn-wuh1        | Wuhan, CN             | 434  | Core | ✓           |
 | cn-wuh2        | Wuhan, CN             | 434  | Edge | ✓           |
 | cn-csx1        | Changsha, CN          | 435  | Edge |
