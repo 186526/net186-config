@@ -49,6 +49,9 @@
       --color-attention-subtle: rgba(187,128,9,0.15);
       --color-danger-fg: #f85149;
     }
+    img[alt=logo] {
+      content: url("https://www.186526.net/logo/light.svg") !important;
+    }
   }
   
   @media (prefers-color-scheme: light) {
@@ -1108,8 +1111,4 @@
   
   .markdown-body ::-webkit-calendar-picker-indicator {
     filter: invert(50%);
-  }
-  
-  img[alt=logo] {
-      content: url("https://www.186526.net/logo/light.svg") !important;
   }
