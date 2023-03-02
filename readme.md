@@ -19,6 +19,8 @@ permalink: /
 
 186526 Network have an open peer policy. You can peer with us through our listed IX in [PeeringDB](https://www.peeringdb.com/net/31778) or through IP tunneling under IPv4.
 
+Peering over RS is always recommended over direct sessions.
+
 Documentation for the BGP Communities is [here](/communities).
 
 For your convenience, here are more info about peering.
