@@ -106,7 +106,7 @@
 | cn-can1        | Guangzhou, CN         | 433  | Core |             |
 | cn-wuh1        | Wuhan, CN             | 434  | Core | ✓           |
 | cn-wuh2        | Wuhan, CN             | 434  | Edge | ✓           |
-| cn-csx1        | Changsha, CN          | 435  | Edge |
+| cn-csx1        | Changsha, CN          | 435  | Edge | ✓           |
 | cn-csx2        | Changsha, CN          | 435  | Edge |
 | cn-cgo1        | Zhengzhou, CN         | 437  | Edge | ✓           |
 | cn-tao1        | Qingdao, CN           | 438  | Edge | ✓           | -->
