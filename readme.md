@@ -42,7 +42,7 @@ To get in touch with me, please send mail to the following mailboxes.
 
 ## AS112 Project
 
-We operate an AS112 server in Seattle, WA using MoeIX SEA, which is IPv6 only.
+We operate an AS112 server in Seattle, WA, which is IPv6 only.
 It uses CoreDNS as DNS server software.
 
 Unicast IPv6: `2a06:a005:2924::112`
