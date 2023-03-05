@@ -31,7 +31,7 @@ For your convenience, here are more info about peering.
 
 ### Transit
 
-186526 network can provide free transit in some places. If you want to know more, please feel free to ask us.
+AS200536 can provide free transit in some places. If you want to know more, please feel free to ask us.
 
 ## Contact
 
@@ -39,3 +39,13 @@ To get in touch with me, please send mail to the following mailboxes.
 
 - Abuse: `abuse@186526.xyz`
 - NOC: `noc@186526.xyz`
+
+## AS112 Project
+
+We operate an AS112 server in Seattle, WA using MoeIX SEA, which is IPv6 only.
+It uses CoreDNS as DNS server software.
+
+Unicast IPv6: `2a06:a005:2924::112`
+
+The server is provided Transit by AS200536 and establish BGP Session with Route Server of MoeIX SEA.
+If you want to peering with this server, please contact noc@186526.xyz.
