@@ -27,7 +27,7 @@ For your convenience, here are more info about peering.
 
 - ASN: `200536`
 - AS-SET: `AS-NET186`
-- Suggested IPv6 Prefix limit: `100`
+- Suggested IPv6 Prefix limit: `150`
 
 ### Transit
 
@@ -48,4 +48,4 @@ It uses CoreDNS as DNS server software.
 Unicast IPv6: `2a06:a005:2924::112`
 
 The server is provided Transit by AS200536 and establish BGP Session with Route Server of MoeIX SEA.
-If you want to peering with this server, please contact noc@186526.xyz.
+If you want to peering with this server, please contact `noc@186526.xyz`.
