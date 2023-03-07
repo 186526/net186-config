@@ -27,7 +27,7 @@ For your convenience, here are more info about peering.
 
 - ASN: `200536`
 - AS-SET: `AS-NET186`
-- Suggested IPv6 Prefix limit: `150`
+- Suggested IPv6 Prefix limit: `500`
 
 ### Transit
 
