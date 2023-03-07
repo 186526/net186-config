@@ -81,6 +81,7 @@
 | America |
 | us-iad1 | Ashburn, VA, US       | 201  | Core | ✓           |
 | us-iad2 | Ashburn, VA, US       | 201  | Edge | ✓           |
+| us-nyc1 | New York, NY, US      | 202  | Core | ✓           |
 | us-sjc1 | Fremont, CA, US       | 221  | Core | ✓           |
 | us-lax1 | Los Angeles, CA, US   | 222  | Edge | ✓           |
 | us-sea1 | Seattle, CA, US       | 223  | Core | ✓           |
