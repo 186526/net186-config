@@ -26,7 +26,7 @@ Documentation for the BGP Communities is [here](/communities).
 For your convenience, here are more info about peering.
 
 - ASN: `200536`
-- AS-SET: `AS-NET186`
+- AS-SET: [`AS-NET186`](https://git.186526.xyz/186526/net186-as-set#details-for-as-set)
 - Suggested IPv6 Prefix limit: `500`
 
 ### Transit
