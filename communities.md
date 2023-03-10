@@ -95,7 +95,7 @@
 | jp-osa1 | Osaka, JP             | 405  | Edge | ✓           |
 | kr-icn1 | Seoul, KR             | 406  | Edge | ✓           |
 | sg-sin1 | Singapore             | 411  | Core | ✓           |
-| sg-sin2 | Singapore             | 411  | Edge |
+| sg-sin2 | Singapore             | 411  | Edge | ✓           |
 | in-bom1 | Mumbai, IN            | 421  | Edge | ✓           |
 | au-syd1 | Sydney, AU            | 501  | Core | ✓           |
 
