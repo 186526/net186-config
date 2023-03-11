@@ -104,9 +104,9 @@
 | cn-pek2        | Beijing, CN           | 431  | Edge |
 | cn-sjw1        | Shijiazhuang, CN      | 431  | Edge | ✓           |
 | cn-ctu1        | near Chengdu, CN      | 432  | Edge | ✓           |
-| cn-can1        | Guangzhou, CN         | 433  | Core |             |
+| cn-can1        | Guangzhou, CN         | 433  | Core | ✓           |
 | cn-wuh1        | Wuhan, CN             | 434  | Core | ✓           |
-| cn-wuh2        | Wuhan, CN             | 434  | Edge | ✓           |
+| cn-wuh2        | Wuhan, CN             | 434  | Edge | 
 | cn-csx1        | Changsha, CN          | 435  | Edge | ✓           |
 | cn-csx2        | Changsha, CN          | 435  | Edge |
 | cn-cgo1        | Zhengzhou, CN         | 437  | Edge | ✓           |
