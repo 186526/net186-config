@@ -84,7 +84,7 @@
 | us-nyc1 | New York, NY, US      | 202  | Core | ✓           |
 | us-sjc1 | Fremont, CA, US       | 221  | Core | ✓           |
 | us-lax1 | Los Angeles, CA, US   | 222  | Edge | ✓           |
-| us-sea1 | Seattle, CA, US       | 223  | Core | ✓           |
+| us-sea1 | Seattle, WA, US       | 223  | Core | ✓           |
 | br-sao1 | Sao Paulo, BR         | 241  | Edge | ✓           |
 | APAC    |
 | cn-hkg1 | Hong Kong SAR         | 401  | Core | ✓           |
