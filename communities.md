@@ -68,46 +68,46 @@
 
 ### PoP
 
-| Name    | Location              | Code | Type | Operational |
-| ------- | --------------------- | ---- | ---- | ----------- |
-| EMEA    |
-| de-fra1 | Frankfurt am Main, DE | 101  | Core | ✓           |
-| de-fra2 | Frankfurt am Main, DE | 101  | Core | ✓           |
-| uk-lhr1 | London, GB            | 102  | Edge | ✓           |
-| nl-ams1 | Amsterdam, NL         | 103  | Core | ✓           |
-| lu-lux1 | Roost, LU             | 104  | Core | ✓           |
-| de-hoq1 | Dusseldorf, DE        | 105  | Edge | ✓           |
-| ae-dxb1 | Dubai, AE             | 601  | Edge | ✓           |
-| America |
-| us-iad1 | Ashburn, VA, US       | 201  | Core | ✓           |
-| us-iad2 | Ashburn, VA, US       | 201  | Edge | ✓           |
-| us-nyc1 | New York, NY, US      | 202  | Core | ✓           |
-| us-sjc1 | Fremont, CA, US       | 221  | Core | ✓           |
-| us-lax1 | Los Angeles, CA, US   | 222  | Edge | ✓           |
-| us-sea1 | Seattle, WA, US       | 223  | Core | ✓           |
-| br-sao1 | Sao Paulo, BR         | 241  | Edge | ✓           |
-| APAC    |
-| cn-hkg1 | Hong Kong SAR         | 401  | Core | ✓           |
-| cn-hkg2 | Hong Kong SAR         | 401  | Edge | ✓           |
-| cn-tpe1 | Taipei, CN            | 402  | Edge | ✓           |
-| jp-tyo1 | Tokyo, JP             | 403  | Edge | ✓           |
-| kr-yny1 | Chuncheon, KR         | 404  | Edge | ✓           |
-| jp-osa1 | Osaka, JP             | 405  | Edge | ✓           |
-| kr-icn1 | Seoul, KR             | 406  | Edge | ✓           |
-| sg-sin1 | Singapore             | 411  | Core | ✓           |
-| sg-sin2 | Singapore             | 411  | Edge | ✓           |
-| in-bom1 | Mumbai, IN            | 421  | Edge | ✓           |
-| au-syd1 | Sydney, AU            | 501  | Core | ✓           |
-
-<!-- | China Mainland |
-| cn-pek1        | Beijing, CN           | 431  | Core | ✓           |
-| cn-pek2        | Beijing, CN           | 431  | Edge |
-| cn-sjw1        | Shijiazhuang, CN      | 431  | Edge | ✓           |
-| cn-ctu1        | near Chengdu, CN      | 432  | Edge | ✓           |
-| cn-can1        | Guangzhou, CN         | 433  | Core | ✓           |
-| cn-wuh1        | Wuhan, CN             | 434  | Core | ✓           |
-| cn-wuh2        | Wuhan, CN             | 434  | Edge | ✓           |
-| cn-csx1        | Changsha, CN          | 435  | Edge | ✓           |
-| cn-csx2        | Changsha, CN          | 435  | Core | ✓           |
-| cn-cgo1        | Zhengzhou, CN         | 437  | Edge | ✓           |
-| cn-tao1        | Qingdao, CN           | 438  | Edge | ✓           | -->
+| Name           | Location                  | Code | Type | Operational |
+| -------------- | ------------------------- | ---- | ---- | ----------- |
+| EMEA           |
+| de-fra1        | Frankfurt am Main, DE     | 101  | Core | ✓           |
+| de-fra2        | Frankfurt am Main, DE     | 101  | Core | ✓           |
+| uk-lhr1        | London, GB                | 102  | Edge | ✓           |
+| nl-ams1        | Amsterdam, NL             | 103  | Core | ✓           |
+| lu-lux1        | Roost, LU                 | 104  | Core | ✓           |
+| de-hoq1        | Dusseldorf, DE            | 105  | Edge | ✓           |
+| ae-dxb1        | Dubai, AE                 | 601  | Edge | ✓           |
+| America        |
+| us-iad1        | Ashburn, VA, US           | 201  | Core | ✓           |
+| us-iad2        | Ashburn, VA, US           | 201  | Edge | ✓           |
+| us-nyc1        | New York, NY, US          | 202  | Core | ✓           |
+| us-mci1        | North Kansas City, MO, US | 211  | Core | ✓           |
+| us-sjc1        | Fremont, CA, US           | 221  | Core | ✓           |
+| us-lax1        | Los Angeles, CA, US       | 222  | Edge | ✓           |
+| us-sea1        | Seattle, WA, US           | 223  | Core | ✓           |
+| br-sao1        | Sao Paulo, BR             | 241  | Edge | ✓           |
+| APAC           |
+| cn-hkg1        | Hong Kong SAR             | 401  | Core | ✓           |
+| cn-hkg2        | Hong Kong SAR             | 401  | Edge | ✓           |
+| cn-tpe1        | Taipei, CN                | 402  | Edge | ✓           |
+| jp-tyo1        | Tokyo, JP                 | 403  | Edge | ✓           |
+| kr-yny1        | Chuncheon, KR             | 404  | Edge | ✓           |
+| jp-osa1        | Osaka, JP                 | 405  | Edge | ✓           |
+| kr-icn1        | Seoul, KR                 | 406  | Edge | ✓           |
+| sg-sin1        | Singapore                 | 411  | Core | ✓           |
+| sg-sin2        | Singapore                 | 411  | Edge | ✓           |
+| in-bom1        | Mumbai, IN                | 421  | Edge | ✓           |
+| au-syd1        | Sydney, AU                | 501  | Core | ✓           |
+| China Mainland |
+| cn-pek1        | Beijing, CN               | 431  | Core | ✓           |
+| cn-pek2        | Beijing, CN               | 431  | Edge |
+| cn-sjw1        | Shijiazhuang, CN          | 431  | Edge | ✓           |
+| cn-ctu1        | near Chengdu, CN          | 432  | Edge | ✓           |
+| cn-can1        | Guangzhou, CN             | 433  | Core | ✓           |
+| cn-wuh1        | Wuhan, CN                 | 434  | Core | ✓           |
+| cn-wuh2        | Wuhan, CN                 | 434  | Edge | ✓           |
+| cn-csx1        | Changsha, CN              | 435  | Edge | ✓           |
+| cn-csx2        | Changsha, CN              | 435  | Core | ✓           |
+| cn-cgo1        | Zhengzhou, CN             | 437  | Edge | ✓           |
+| cn-tao1        | Qingdao, CN               | 438  | Edge | ✓           |
