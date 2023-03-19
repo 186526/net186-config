@@ -11,8 +11,8 @@ permalink: /
 [![status](https://img.shields.io/badge/status-operational-sucess)](https://uptime.186526.net)
 [![looking-glass](https://img.shields.io/badge/looking%20glass-available%20at%20lg.186526.net-blue)](https://lg.186526.net/)
 
-- AS200536, aka Sunoaki Network
-- Experimental global network
+- AS200536, aka NET186, Sunoaki Network.
+- Experimental global network.
 - Operated by 186526 (Bo Xu) [@real186526](https://186526.xyz), sponsored by Sunoaki Network LLC.
 
 ## Peering
