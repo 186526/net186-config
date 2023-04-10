@@ -73,6 +73,7 @@
 | EMEA           |
 | de-fra1        | Frankfurt am Main, DE     | 101  | Core | ✓           |
 | de-fra2        | Frankfurt am Main, DE     | 101  | Core | ✓           |
+| de-fra3        | Frankfurt am Main, DE     | 101  | Edge | ✓           |
 | uk-lhr1        | London, GB                | 102  | Edge | ✓           |
 | nl-ams1        | Amsterdam, NL             | 103  | Core | ✓           |
 | lu-lux1        | Roost, LU                 | 104  | Core | ✓           |
@@ -80,7 +81,7 @@
 | ae-dxb1        | Dubai, AE                 | 601  | Edge | ✓           |
 | America        |
 | us-iad1        | Ashburn, VA, US           | 201  | Core | ✓           |
-| us-iad2        | Ashburn, VA, US           | 201  | Edge | ✓           |
+| us-iad2        | Ashburn, VA, US           | 201  | Edge |             |
 | us-nyc1        | New York, NY, US          | 202  | Core | ✓           |
 | us-mci1        | North Kansas City, MO, US | 211  | Core | ✓           |
 | us-sjc1        | Fremont, CA, US           | 221  | Core | ✓           |
@@ -94,10 +95,10 @@
 | jp-tyo1        | Tokyo, JP                 | 403  | Edge | ✓           |
 | kr-yny1        | Chuncheon, KR             | 404  | Edge | ✓           |
 | jp-osa1        | Osaka, JP                 | 405  | Edge | ✓           |
-| kr-icn1        | Seoul, KR                 | 406  | Edge | ✓           |
+| kr-icn1        | Seoul, KR                 | 406  | Edge |             |
 | sg-sin1        | Singapore                 | 411  | Core | ✓           |
 | sg-sin2        | Singapore                 | 411  | Edge | ✓           |
-| in-bom1        | Mumbai, IN                | 421  | Edge | ✓           |
+| in-bom1        | Mumbai, IN                | 421  | Edge |             |
 | au-syd1        | Sydney, AU                | 501  | Core | ✓           |
 | China Mainland |
 | cn-pek1        | Beijing, CN               | 431  | Core | ✓           |
@@ -106,8 +107,8 @@
 | cn-ctu1        | near Chengdu, CN          | 432  | Edge | ✓           |
 | cn-can1        | Guangzhou, CN             | 433  | Core | ✓           |
 | cn-wuh1        | Wuhan, CN                 | 434  | Core | ✓           |
-| cn-wuh2        | Wuhan, CN                 | 434  | Edge | ✓           |
+| cn-wuh2        | Wuhan, CN                 | 434  | Edge |
 | cn-csx1        | Changsha, CN              | 435  | Edge | ✓           |
-| cn-csx2        | Changsha, CN              | 435  | Core | ✓           |
-| cn-cgo1        | Zhengzhou, CN             | 437  | Edge | ✓           |
+| cn-csx2        | Changsha, CN              | 435  | Core |
+| cn-cgo1        | Zhengzhou, CN             | 437  | Edge |
 | cn-tao1        | Qingdao, CN               | 438  | Edge | ✓           |
