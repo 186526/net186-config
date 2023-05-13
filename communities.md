@@ -76,6 +76,7 @@
 | de-fra3        | Frankfurt am Main, DE     | 101  | Edge |             |
 | uk-lhr1        | London, GB                | 102  | Edge | ✓           |
 | nl-ams1        | Amsterdam, NL             | 103  | Core | ✓           |
+| nl-ams2        | Amsterdam, NL             | 103  | Core | ✓           |
 | lu-lux1        | Roost, LU                 | 104  | Core | ✓           |
 | de-hoq1        | Dusseldorf, DE            | 105  | Edge | ✓           |
 | ae-dxb1        | Dubai, AE                 | 601  | Edge | ✓           |
