@@ -72,8 +72,7 @@
 | -------------- | ------------------------- | ---- | ---- | ----------- |
 | EMEA           |
 | de-fra1        | Frankfurt am Main, DE     | 101  | Core | ✓           |
-| de-fra2        | Frankfurt am Main, DE     | 101  | Core | ✓           |
-| de-fra3        | Frankfurt am Main, DE     | 101  | Edge |             |
+| de-fra2        | Frankfurt am Main, DE     | 101  | Core |             |
 | uk-lhr1        | London, GB                | 102  | Edge | ✓           |
 | nl-ams1        | Amsterdam, NL             | 103  | Core | ✓           |
 | nl-ams2        | Amsterdam, NL             | 103  | Core | ✓           |
