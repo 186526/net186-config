@@ -79,7 +79,7 @@
 | America                   |
 | `core.us-iad1.186526.net` | Ashburn, VA, US           | 201  | Core | ✓           | 2a06:a005:2921::1     |
 | `core.us-sjc1.186526.net` | Fremont, CA, US           | 221  | Core | ✓           | 2a06:a005:2922::1     |
-| `edge.us-sjc2.186526.net` | San Jose, CA, US          | 221  | Edge |             | 2a06:a005:2922::2     |
+| `edge.us-sjc2.186526.net` | San Jose, CA, US          | 221  | Edge | ✓           | 2a06:a005:2922::2     |
 | `edge.us-lax1.186526.net` | Los Angeles, CA, US       | 222  | Edge | ✓           | 2a06:a005:2923::1     |
 | `core.us-sea1.186526.net` | Seattle, WA, US           | 223  | Core |             | 2a06:a005:2924::1     |
 | `core.us-nyc1.186526.net` | New York, NY, US          | 202  | Core | ✓           | 2a06:a005:2925::1     |

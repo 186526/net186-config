@@ -63,6 +63,4 @@ If you want to peering with this server, please contact `noc@186526.xyz`. -->
 
 ## About Sunoaki Network LLC
 
-Sunoaki Network LLC is a limited liability company registered in Colorado, United States. We provide IP leasing and IP Transit services. If you have any requirements, please contact `i@186526.xyz`.
-
-Sunoaki Network LLC is a member of ARIN.
+[sunoaki.net](https://sunoaki.net)
