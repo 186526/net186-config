@@ -1,0 +1,133 @@
+200536:0:665,Announcing only without routing
+200536:0:666,Blackhole the route globalwide
+200536:110:1,Learned from IX
+200536:110:0,Learned from Peer
+200536:110:10,Learned from Upstream
+200536:110:2,Learned from Direct Peer
+200536:110:20,Learned from Downstream
+200536:110:30,Originated in AS200536
+200536:115:1,Prepend 1x this route globalwide except for AS200536
+200536:115:3,Prepend 3x this route globalwide except for AS200536
+200536:115:5,Prepend 5x this route globalwide except for AS200536
+200536:120:101,Learned in Frankfurt
+200536:120:103,Learned in Amsterdam
+200536:120:104,Learned in Luxembourg
+200536:120:201,Learned in Ashburn
+200536:120:202,Learned in New York
+200536:120:211,Learned in Kansas City
+200536:120:221,Learned in San Jose
+200536:120:222,Learned in Los Angeles
+200536:120:223,Learned in Seattle
+200536:120:241,Learned in Sao Paulo
+200536:120:401,Learned in Hong Kong SAR
+200536:120:402,Learned in Taipei
+200536:120:403,Learned in Tokyo
+200536:120:404,Learned in Chuncheon
+200536:120:411,Learned in Singapore
+200536:120:431,Learned in Beijing
+200536:120:432,Learned in Chengdu
+200536:120:433,Learned in Guangzhou
+200536:120:434,Learned in Wuhan
+200536:120:435,Learned in Changsha
+200536:120:437,Learned in Zhengzhou
+200536:120:438,Learned in Qingdao
+200536:120:501,Learned in Sydney
+200536:120:601,Learned in Dubai
+200536:120:nnn,Learned in $0 ($0 from PoP List)
+200536:121:100,Learned in Europe
+200536:121:200,Learned in East Coast of North America
+200536:121:210,Learned in Central North America
+200536:121:220,Learned in West Coast of North America
+200536:121:230,Learned in Central America
+200536:121:240,Learned in Eastern South America
+200536:121:250,Learned in West South America
+200536:121:300,Learned in North Africa
+200536:121:310,Learned in Southern Africa
+200536:121:400,Learned in East Asia (without China mainland)
+200536:121:410,Learned in Southeast Asia
+200536:121:420,Learned in South Asia
+200536:121:430,Learned in China mainland
+200536:121:500,Learned in Oceania
+200536:121:600,Learned in Middle East
+200536:121:nnn,Learned in $0 ($0 from Region List)
+200536:122:100,Routed via Europe
+200536:122:200,Routed via East Coast of North America
+200536:122:210,Routed via Central North America
+200536:122:220,Routed via West Coast of North America
+200536:122:230,Routed via Central America
+200536:122:240,Routed via Eastern South America
+200536:122:250,Routed via West South America
+200536:122:300,Routed via North Africa
+200536:122:310,Routed via Southern Africa
+200536:122:400,Routed via East Asia (without China mainland)
+200536:122:410,Routed via Southeast Asia
+200536:122:420,Routed via South Asia
+200536:122:430,Routed via China mainland
+200536:122:500,Routed via Oceania
+200536:122:600,Routed via Middle East
+200536:122:nnn,Routed via $0 ($0 from Region List)
+200536:125:101,Do not route this route via Frankfurt
+200536:125:103,Do not route this route via Amsterdam
+200536:125:104,Do not route this route via Luxembourg
+200536:125:201,Do not route this route via Ashburn
+200536:125:202,Do not route this route via New York
+200536:125:211,Do not route this route via Kansas City
+200536:125:221,Do not route this route via San Jose
+200536:125:222,Do not route this route via Los Angeles
+200536:125:223,Do not route this route via Seattle
+200536:125:241,Do not route this route via Sao Paulo
+200536:125:401,Do not route this route via Hong Kong SAR
+200536:125:402,Do not route this route via Taipei
+200536:125:403,Do not route this route via Tokyo
+200536:125:404,Do not route this route via Chuncheon
+200536:125:411,Do not route this route via Singapore
+200536:125:431,Do not route this route via Beijing
+200536:125:432,Do not route this route via Chengdu
+200536:125:433,Do not route this route via Guangzhou
+200536:125:434,Do not route this route via Wuhan
+200536:125:435,Do not route this route via Changsha
+200536:125:437,Do not route this route via Zhengzhou
+200536:125:438,Do not route this route via Qingdao
+200536:125:501,Do not route this route via Sydney
+200536:125:601,Do not route this route via Dubai
+200536:125:nnn,Do not route this route via $0 ($0 from PoP List)
+200536:126:100,Do not route this route via Europe
+200536:126:200,Do not route this route via East Coast of North America
+200536:126:210,Do not route this route via Central North America
+200536:126:220,Do not route this route via West Coast of North America
+200536:126:230,Do not route this route via Central America
+200536:126:240,Do not route this route via Eastern South America
+200536:126:250,Do not route this route via West South America
+200536:126:300,Do not route this route via North Africa
+200536:126:310,Do not route this route via Southern Africa
+200536:126:400,Do not route this route via East Asia (without China mainland)
+200536:126:410,Do not route this route via Southeast Asia
+200536:126:420,Do not route this route via South Asia
+200536:126:430,Do not route this route via China mainland
+200536:126:500,Do not route this route via Oceania
+200536:126:600,Do not route this route via Middle East
+200536:126:nnn,Do not route this route via $0 ($0 from Region List)
+200536:1:0,Do not announce this route to Upstream
+200536:1:1,Do not announce this route to Peer
+200536:1:2,Do not announce this route to Downstream
+200536:2:nnn,Do not announce this route to AS$0
+200536:3:100,Do not announce this route in Europe
+200536:3:200,Do not announce this route in East Coast of North America
+200536:3:210,Do not announce this route in Central North America
+200536:3:220,Do not announce this route in West Coast of North America
+200536:3:230,Do not announce this route in Central America
+200536:3:240,Do not announce this route in Eastern South America
+200536:3:250,Do not announce this route in West South America
+200536:3:300,Do not announce this route in North Africa
+200536:3:310,Do not announce this route in Southern Africa
+200536:3:400,Do not announce this route in East Asia (without China mainland)
+200536:3:410,Do not announce this route in Southeast Asia
+200536:3:420,Do not announce this route in South Asia
+200536:3:430,Do not announce this route in China mainland
+200536:3:500,Do not announce this route in Oceania
+200536:3:600,Do not announce this route in Middle East
+200536:3:nnn,Do not announce this route in $0 ($0 from Region List)
+65535:65281,Do not announce this route globalwide
+65535:65282,Do not announce this route on this PoP
+65535:65283,Do not announce this route on this region
+65535:666,Blackhole the route globalwide
