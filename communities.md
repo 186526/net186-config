@@ -75,37 +75,37 @@ You can find txt style file in [186526.net/communities-as200536.txt](https://www
 | Name                      | Location                  | Code | Type | Operational | IPv6 Address for Test |
 | ------------------------- | ------------------------- | ---- | ---- | ----------- | --------------------- |
 | EMEA                      |
-| `core.de-fra1.186526.net` | Frankfurt am Main, DE     | 101  | Core | ✓           | 2a06:a005:28f1::1     |
-| `core.nl-ams2.186526.net` | Amsterdam, NL             | 103  | Core | ✓           | 2a06:a005:28f3::2     |
+| `core.de-fra1.186526.net` | Frankfurt am Main, DE     | 101  | Core |             | 2a06:a005:28f1::1     |
 | `core.nl-ams1.186526.net` | Amsterdam, NL             | 103  | Core | ✓           | 2a06:a005:28f3::1     |
+| `core.nl-ams2.186526.net` | Amsterdam, NL             | 103  | Core |             | 2a06:a005:28f3::2     |
 | `core.lu-lux1.186526.net` | Roost, LU                 | 104  | Core | ✓           | 2a06:a005:28f4::1     |
 | `edge.ae-dxb1.186526.net` | Dubai, AE                 | 601  | Edge | ✓           | 2a0a:6040:a901::1     |
 | America                   |
-| `core.us-iad1.186526.net` | Ashburn, VA, US           | 201  | Core | ✓           | 2a06:a005:2921::1     |
+| `core.us-iad1.186526.net` | Ashburn, VA, US           | 201  | Core |             | 2a06:a005:2921::1     |
 | `core.us-sjc1.186526.net` | Fremont, CA, US           | 221  | Core | ✓           | 2a06:a005:2922::1     |
 | `edge.us-sjc2.186526.net` | San Jose, CA, US          | 221  | Edge | ✓           | 2a06:a005:2922::2     |
-| `edge.us-lax1.186526.net` | Los Angeles, CA, US       | 222  | Edge | ✓           | 2a06:a005:2923::1     |
+| `edge.us-lax1.186526.net` | Los Angeles, CA, US       | 222  | Edge |             | 2a06:a005:2923::1     |
 | `core.us-sea1.186526.net` | Seattle, WA, US           | 223  | Core |             | 2a06:a005:2924::1     |
-| `core.us-nyc1.186526.net` | New York, NY, US          | 202  | Core | ✓           | 2a06:a005:2925::1     |
+| `core.us-nyc1.186526.net` | New York, NY, US          | 202  | Core |             | 2a06:a005:2925::1     |
 | `core.us-mci1.186526.net` | North Kansas City, MO, US | 211  | Core | ✓           | 2a06:a005:2926::1     |
-| `edge.br-sao1.186526.net` | Sao Paulo, BR             | 241  | Edge | ✓           | 2a06:a005:2960::1     |
+| `edge.br-sao1.186526.net` | Sao Paulo, BR             | 241  | Edge |             | 2a06:a005:2960::1     |
 | APAC                      |
-| `core.cn-hkg1.186526.net` | Hong Kong SAR             | 401  | Core | ✓           | 2a06:a005:1700::1     |
-| `edge.cn-hkg2.186526.net` | Hong Kong SAR             | 401  | Edge | ✓           | 2a06:a005:1708::1     |
+| `core.cn-hkg1.186526.net` | Hong Kong SAR             | 401  | Core |             | 2a06:a005:1700::1     |
+| `edge.cn-hkg2.186526.net` | Hong Kong SAR             | 401  | Edge |             | 2a06:a005:1708::1     |
 | `edge.cn-tpe1.186526.net` | Taipei, CN                | 402  | Edge | ✓           | 2a06:a005:2950::1     |
 | `edge.jp-tyo1.186526.net` | Tokyo, JP                 | 403  | Edge | ✓           | 2a06:a005:2940::1     |
 | `edge.kr-yny1.186526.net` | Chuncheon, KR             | 404  | Edge | ✓           | 2a06:a005:29d1::1     |
-| `core.sg-sin1.186526.net` | Singapore                 | 411  | Core | ✓           | 2a06:a005:2930::1     |
-| `edge.sg-sin1.186526.net` | Singapore                 | 411  | Edge | ✓           | 2a06:a005:2930::2     |
+| `core.sg-sin1.186526.net` | Singapore                 | 411  | Core |             | 2a06:a005:2930::1     |
+| `edge.sg-sin1.186526.net` | Singapore                 | 411  | Edge |             | 2a06:a005:2930::2     |
 | `core.au-syd1.186526.net` | Sydney, AU                | 501  | Core | ✓           | 2a06:a005:f80::1      |
 | China Mainland            |
-| `core.cn-pek1.186526.net` | Beijing, CN               | 431  | Core |             | 2a06:a005:2910::1     |
+| `core.cn-pek1.186526.net` | Beijing, CN               | 431  | Core | ✓           | 2a06:a005:2910::1     |
 | `edge.cn-sjw1.186526.net` | Shijiazhuang, CN          | 431  | Edge |             | 2a06:a005:2910:1::1   |
 | `edge.cn-ctu1.186526.net` | Chengdu, CN               | 432  | Edge |             | 2a06:a005:2911::1     |
 | `core.cn-can1.186526.net` | Guangzhou, CN             | 433  | Core | ✓           | 2a06:a005:2912::1     |
-| `core.cn-wuh1.186526.net` | Wuhan, CN                 | 434  | Core | ✓           | 2a06:a005:2913::1     |
-| `edge.cn-csx1.186526.net` | Changsha, CN              | 435  | Edge | ✓           | 2a06:a005:2914::1     |
-| `edge.cn-tao1.186526.net` | Qingdao, CN               | 438  | Edge | ✓           | 2a06:a005:2915::1     |
-| `edge.cn-cgo1.186526.net` | Zhengzhou, CN             | 437  | Edge | ✓           | 2a06:a005:2916::1     |
+| `core.cn-wuh1.186526.net` | Wuhan, CN                 | 434  | Core |             | 2a06:a005:2913::1     |
+| `edge.cn-csx1.186526.net` | Changsha, CN              | 435  | Edge |             | 2a06:a005:2914::1     |
+| `edge.cn-tao1.186526.net` | Qingdao, CN               | 438  | Edge |             | 2a06:a005:2915::1     |
+| `edge.cn-cgo1.186526.net` | Zhengzhou, CN             | 437  | Edge |             | 2a06:a005:2916::1     |
 | `edge.cn-wuh2.186526.net` | Wuhan, CN                 | 434  | Edge | ✓           | 2a06:a005:2917::1     |
 | `core.cn-csx2.186526.net` | Changsha, CN              | 435  | Core |             | 2a06:a005:2918::1     |
